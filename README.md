@@ -49,8 +49,8 @@ This portfolio showcases my skills, certifications, and sample projects to demon
 
 ## 📂 Project Samples
 
-- 📅 **[Social Media Content Calendar](https://docs.google.com/spreadsheets/d/15cRNXN0K9swTceJV6PaUigSMy3ic8MKEA51QaMTYlpc/edit?usp=sharing))**  
-- 🛒 **[Shopify Product Upload Documentation](https://drive.google.com/drive/folder/your_folder_id_here)**  
+- 📅 **[Social Media Content Calendar](https://docs.google.com/spreadsheets/d/15cRNXN0K9swTceJV6PaUigSMy3ic8MKEA51QaMTYlpc/edit?usp=sharing)**  
+- 🛒 **[Shopify Product Upload Documentation](https://drive.google.com/drive/folders/1AWLbnVlF5Z5tIsXDCTMGRlF4u82mSWEz?usp=sharing)**  
 - 🎬 **[Video Editing and Graphic Design Samples](https://drive.google.com/drive/folder/your_folder_id_here)**  
 - 🌐 **[Networking Lab Topologies](https://drive.google.com/drive/folder/your_folder_id_here)**  
 - 🛡️ **[Cybersecurity Practice Labs](https://drive.google.com/drive/folder/your_folder_id_here)**  
