@@ -96,3 +96,23 @@ Feel free to reach out:
 
 # 🛠️ Tools & Platforms
 
+Google Workspace | Shopify | Canva | CapCut | Adobe Premiere Rush | Cisco Packet Tracer | GNS3 | Wireshark | Linux CLI
+
+
+---
+
+# 📈 Ongoing Learning Goals
+
+- Complete Google Cybersecurity Certificate (expected 2025)  
+- Achieve CompTIA Security+ Certification  
+- Gain further experience in Incident Response, Network Security, and Cloud Security  
+- Expand advanced Virtual Assistant services for IT businesses
+
+---
+
+# ✅ Ready to Collaborate!
+
+If you are looking for a reliable Virtual Assistant with a strong technical edge — or a networking/cybersecurity enthusiast ready to grow with your team — let's connect!
+
+
+
