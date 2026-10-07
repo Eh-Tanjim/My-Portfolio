@@ -31,7 +31,7 @@ This portfolio showcases my skills, certifications, and sample projects to demon
 
 ### Certifications  
 - ✅ **Cisco Certified Network Associate (CCNA) Routing and Switching** — *Completed*  
-- 🚀 **Google Cybersecurity Professional Certificate** — *In Progress*  
+- 🚀 **Google Cybersecurity Professional Certificate** — *Completed*  
 - 🚀 **CompTIA Security+ Certification** — *In Progress*
 
 ### Technical Skills  
@@ -102,8 +102,7 @@ Google Workspace | Shopify | Canva | CapCut | Adobe Premiere Rush | Cisco Packet
 ---
 
 # 📈 Ongoing Learning Goals
-
-- Complete Google Cybersecurity Certificate (expected 2025)  
+  
 - Achieve CompTIA Security+ Certification  
 - Gain further experience in Incident Response, Network Security, and Cloud Security  
 - Expand advanced Virtual Assistant services for IT businesses
